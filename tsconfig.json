@@ -3,20 +3,29 @@
     "baseUrl": ".",
     "inlineSourceMap": true,
     "inlineSources": true,
-    "module": "ESNext",
-    "target": "ES6",
-    "allowJs": true,
     "noImplicitAny": true,
     "moduleResolution": "node",
     "importHelpers": true,
-    "lib": [
-      "DOM",
-      "ES5",
-      "ES6",
-      "ES7"
-    ]
+    "lib": ["ESNext", "DOM"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleDetection": "force",
+    "jsx": "react-jsx",
+    "allowJs": true,
+
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "noEmit": true,
+
+    // Best practices
+    "strict": true,
+    "skipLibCheck": true,
+    "noFallthroughCasesInSwitch": true,
+
+    // Some stricter flags
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noPropertyAccessFromIndexSignature": true,
   },
-  "include": [
-    "**/*.ts"
-  ]
+  "include": ["**/*.ts"],
 }

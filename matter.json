@@ -1,0 +1,16 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE0NTgwOTU4LCJqdGkiOiJmYzU0ZjVhNDVkN2Q0YWExOWYwNWE2MGYwMjI2ZTQwMSIsInVzZXJfaWQiOjkxMjcwLCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6ImUzNjRlY2Q5LTZjZWQtNGQ1Ny1iMTM1LWI3MzQ5YjY0N2I2NCJ9.CzoqOOYgU76OkLKR2ZqAVKJhclhQGTYHC2EuiAU3W9w",
+  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyMTY2NTc1OCwianRpIjoiZjI4Mzc0ZWFkZTYwNDlmOTkwMDA3NDE5MGU5ODdmMzQiLCJ1c2VyX2lkIjo5MTI3MCwiY2xpZW50X3R5cGUiOiJpbnRlZ3JhdGlvbiIsImxvZ2luX3Nlc3Npb25faWQiOiJlMzY0ZWNkOS02Y2VkLTRkNTctYjEzNS1iNzM0OWI2NDdiNjQifQ.x1Me4ONoaSBnEUzf0aJUvmoqyRBGTQ-X8CW8KYGYvTQ",
+  "qrSessionToken": "b1f12520779b7e58be69d01de1e5cc4d78fc9df44ab690f5cc78444e94410113",
+  "dataDir": "Matter",
+  "syncInterval": 60,
+  "syncOnLaunch": true,
+  "notifyOnSync": "always",
+  "hasCompletedInitialSetup": true,
+  "lastSync": null,
+  "isSyncing": false,
+  "contentMap": {},
+  "recreateIfMissing": true,
+  "metadataTemplate": null,
+  "highlightTemplate": null
+}
